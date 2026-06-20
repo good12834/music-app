@@ -2,7 +2,7 @@
   "name": "my-vue-app",
   "private": true,
   "version": "0.0.0",
-   "homepage": "https://good12834.github.io/my-vue-app",
+   "homepage": "https://good12834.github.io/music-app",
   "type": "module",
   "scripts": {
     "dev": "vite",
